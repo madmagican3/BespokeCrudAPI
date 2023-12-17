@@ -1,0 +1,6 @@
+@DreamLandApi_HostAddress = http://localhost:5037
+
+GET {{DreamLandApi_HostAddress}}
+Accept: application/json
+
+###
